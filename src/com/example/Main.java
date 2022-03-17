@@ -1,4 +1,4 @@
-package jurnal4;
+package com.example;
 
 import java.io.*;
 
